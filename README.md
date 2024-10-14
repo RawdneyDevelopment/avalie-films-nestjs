@@ -15,24 +15,6 @@ API para avaliações de filmes com integração ao OMDB, construída com Fastif
 - **Documentação:** Fastify Swagger
 - **Containerização:** Docker e Docker Compose
 
-## Estrutura do Projeto
-
-```
-api-avalie-filmes/
-├── src/
-│   ├── config/
-│   ├── controllers/
-│   ├── middlewares/
-│   ├── inversify/
-│   ├── repositories/
-│   ├── entities/
-│   └── app.ts
-├── Dockerfile
-├── docker-compose.yml
-├── package.json
-└── tsconfig.json
-```
-
 ## Iniciando o Projeto
 
 ### Pré-requisitos
